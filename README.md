@@ -10,6 +10,6 @@ Whenever you visit a retail supermarket, you will find that baby diapers and wip
 
 
 
-[CodeClause](https://www.codeclause.com)
-<br>
 <img src="Main_Logo.png" alt="CodeClause" width="200"/>
+<br>
+[CodeClause](https://www.codeclause.com)
