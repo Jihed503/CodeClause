@@ -11,4 +11,4 @@ Whenever you visit a retail supermarket, you will find that baby diapers and wip
 
 ![Screenshot](Main_Logo.png)
 <br>
-<img src="[drawing.jpg](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjcyImQ-K38AhVBi_0HHbuDCMoQFnoECB8QAQ&url=https%3A%2F%2Fwww.codeclause.com%2F&usg=AOvVaw3RanHNPEtqJ_QmwXIry7Nm)" alt="CodeClause" width="200"/>
+<img src="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjcyImQ-K38AhVBi_0HHbuDCMoQFnoECB8QAQ&url=https%3A%2F%2Fwww.codeclause.com%2F&usg=AOvVaw3RanHNPEtqJ_QmwXIry7Nm" alt="CodeClause" width="200"/>
