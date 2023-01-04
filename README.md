@@ -8,6 +8,6 @@ According to EuropeanBusinessReview, telecommunication providers lose close to $
 ### Market Basket Analysis in Python using Apriori Algorithm
 Whenever you visit a retail supermarket, you will find that baby diapers and wipes, bread and butter, pizza base and cheese, beer, and chips are positioned together in the tore for sales. This is what market basket analysis is all about - analyzing the association among products bought together by customers. Market basket analysis is a versatile use case in the retail industry that helps cross-sell products in a physical outlet and also helps e-commerce businesses recommend products t ocustomers based on product associations. Apriori and FP growth are the most popular machine learning alogorithm used for association learning to perform market basket analysis.
 
-
 [CodeClause](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjcyImQ-K38AhVBi_0HHbuDCMoQFnoECB8QAQ&url=https%3A%2F%2Fwww.codeclause.com%2F&usg=AOvVaw3RanHNPEtqJ_QmwXIry7Nm)
+<br>
 ![Screenshot](Main_Logo.png)
